@@ -37,4 +37,5 @@
 
 
 # Contact Us
-@checkpointreport
+Website: checkpoint.report
+Telegram: @checkpointreport
